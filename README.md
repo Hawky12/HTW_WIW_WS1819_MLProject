@@ -31,6 +31,8 @@ Sowohl die Simulationsdaten, als auch die Analysedaten werden kontinuierlich in 
 
 ## Installation
 
+## Lizensierung
+
 ## Tests
 
 ## Acknowledgments
