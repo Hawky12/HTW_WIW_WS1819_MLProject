@@ -29,12 +29,10 @@ Die aus der Simulation gewonnenen Maschinendaten können mit verschiedenen Codes
 
 Sowohl die Simulationsdaten, als auch die Analysedaten werden kontinuierlich in SQL-Datenbanken übertragen, welche auf einem Server der HTW Berlin zur Verfügung gestellt wurden. Somit stehen die Daten für das App Team bereit zur Visualisierung. 
 
-## Installing
+## Installation
 
-## Running the tests
-
-## Deployment
+## Tests
 
 ## Acknowledgments
 
-## Contact Information
+## Kantaktinformationen
