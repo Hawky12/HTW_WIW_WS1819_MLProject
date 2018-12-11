@@ -3,7 +3,7 @@
 Im Rahmen eines WIW-Projekts zum Thema Predictive Maintenance an der HTW Berlin) wurde eine Gruppe von Studenten in zwei Teams unterteilt: Team Prediction und Team App. Ersteres war dafür zuständig, Maschinendaten zu simulieren und mittels ML-Methoden zu analysieren. Für die Visualisierung in einer App, wurden die Simulations- und Analysedaten dem App Team per Datenbanken zur Verfügung gestellt. 
 
  
-Abbildung 1: Teamaufteilung Predictive Maintenance
+![alt text](https://github.com/Hawky12/HTW_WIW_WS1819_MLProject/blob/master/Aufteilung%20der%20Teams.PNG?raw=true)
 
 Die entwickelten Codes des Teams Prediction können verwendet werden, um die Simulation und ML-Analysen im eigenen Programm live zu nehmen.
 
